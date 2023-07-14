@@ -1,0 +1,25 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Your Name",
+      "genre": "Anime, Drama",
+      "director": "Nischal Neupane",
+      "releaseYear": 2012
+    },
+    {
+      "id": 2,
+      "title": "The Silent Voice",
+      "genre": "Drama, Anime",
+      "director": "Neupane Nischal",
+      "releaseYear": 2015
+    },
+    {
+      "id": 3,
+      "title": "I Want To Eat Your Pancreas",
+      "genre": "Anime, Drama",
+      "director": "Nischal Nischal",
+      "releaseYear": 2018
+    }
+  ]
+}
